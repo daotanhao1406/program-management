@@ -1,0 +1,26 @@
+.login-form {
+    max-width: 360px;
+}
+.signUp-form{
+    max-width: 600px;
+}
+.login-form-forgot {
+    float: right;
+}
+.ant-col-rtl .login-form-forgot {
+    float: left;
+}
+.login-form-button {
+    width: 100%;
+}
+
+.container {
+    height: 100vh;
+}
+
+.login-card {
+    width: 400px;
+    border-radius: 8px;
+    box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
+    margin: auto;
+}
